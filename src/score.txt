@@ -1,0 +1,13 @@
+Name: default
+Difficulty level is : God's level 🦄️
+Your score is : 22.0
+You hit paddle 0 times
+All you special effects you got:
+longer paddle * 0
+shorter paddle * 0
+larger ball * 0
+smaller ball * 0
+double score * 0
+half score * 0
+hard brick * 0
+brittle brick * 1
