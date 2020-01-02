@@ -1,0 +1,15 @@
+Compiling XML file ../../Utilities/XML/tinyxml/tinyxml.cpp
+Compiling XML file ../../Utilities/XML/tinyxml/tinyxmlerror.cpp
+Compiling XML file ../../Utilities/XML/tinyxml/tinyxmlparser.cpp
+../../Utilities/XML/tinyxml/tinyxmlparser.cpp: In static member function ‘static void TiXmlBase::ConvertUTF32ToUTF8(long unsigned int, char*, int*)’:
+../../Utilities/XML/tinyxml/tinyxmlparser.cpp:109:32: error: unknown option after ‘#pragma GCC diagnostic’ kind [-Werror=pragmas]
+ #pragma GCC diagnostic ignored "-Wimplicit-fallthrough"
+                                ^
+Compiling XML file ../../Utilities/XML/XMLNode.cpp
+Compiling MPL file Cfg/Cfg.cpp
+Compiling MPL file Environment/ActiveMultiBody.cpp
+Compiling MPL file Environment/Body.cpp
+cc1plus: all warnings being treated as errors
+../../Utilities/XML/Makefile.Include:47: recipe for target '../../Utilities/XML/tinyxml/tinyxmlparser.o' failed
+make: *** [../../Utilities/XML/tinyxml/tinyxmlparser.o] Error 1
+make: *** Waiting for unfinished jobs....
